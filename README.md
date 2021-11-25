@@ -14,6 +14,4 @@
 
 
 > Every dream has a rainbow of happiness :) 
-<img src = "/>
 
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaus19&theme=dark&show_icons=true)
