@@ -12,6 +12,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I produce music and write songs in my spare time.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=klaus19&theme=purple" />
 
 > Every dream has a rainbow of happiness :) 
 
