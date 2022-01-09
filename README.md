@@ -14,5 +14,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaus19&theme=purple" />
 
+![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=Skills&logoColor=white&color=2bbc8a)
+
 > Every dream has a rainbow of happiness :) 
 
