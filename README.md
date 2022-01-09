@@ -19,5 +19,9 @@
 ![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Flutter-Dart-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Handling APIs-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/C#-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 > Every dream has a rainbow of happiness :) 
 
