@@ -16,8 +16,8 @@
 
 <b>My Skills</b>
 
-![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=Skills&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Skills&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Flutter-Dart-informational?style=flat&logo=Skills&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Android-Kotlin-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Flutter-Dart-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 > Every dream has a rainbow of happiness :) 
 
