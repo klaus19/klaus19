@@ -1,4 +1,4 @@
-### Labas,I am Tejas Khartude 👋
+### Hello,I am Tejas Khartude 👋
 
 
 
