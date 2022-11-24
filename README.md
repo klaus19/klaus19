@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Flutter-Dart-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Handling-APIs-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/C#-.Net-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=Skills&logoColor=white&color=blueviolet)
 > Every dream has a rainbow of happiness :) 
 
