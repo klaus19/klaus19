@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as a Senior Software Engineer on Android, especially implemeting Location Services and Push Notifications.
+- 🔭 I’m currently working as a Senior Software Engineer on React.js, React Native and Android, especially implemeting Location Services and Push Notifications.
 - 🌱 I’m currently learning Kotlin Multiplatform and Python.
 - 👯 I’m looking to collaborate on an Android App that I am developing for users who want to learn Lithuanian.
 - 🤔 I’m looking for help with adding new enhancements in my Android Game that I am developing.
